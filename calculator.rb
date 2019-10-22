@@ -6,15 +6,15 @@ def second_number(num2)
   second_number = num2.to_f
 end
 
-def addition(first_number, second_number)
-  sum = first_number + second_number
-end
 
-def subtraction(first_number, second_number)
-  difference = first_number - second_number
-end
+sum = first_number + second_number
 
-def multiplication(first_number, second_number)
+
+
+difference = first_number - second_number
+
+
+
   product = first_number * second_number
 end
 
