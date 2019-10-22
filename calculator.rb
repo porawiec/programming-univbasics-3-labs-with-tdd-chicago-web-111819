@@ -1,7 +1,7 @@
 # Add your variables here
-first_number = 1.to_f
+first_number = gets.to_f
 
-second_number = num2.to_f
+second_number = gets.to_f
 
 sum = first_number + second_number
 
